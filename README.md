@@ -14,4 +14,4 @@
 
 ### Programming language: Python
 ### Frontend: (Planned) HTML & CSS
-### Frameworks: Django
+### Frameworks: (Planned) Django
