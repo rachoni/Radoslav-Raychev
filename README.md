@@ -13,6 +13,6 @@ This repository hosts a dynamic web application powered by a machine learning mo
 ## Technologies:
 
 - **Programming language:** Python
-- **Frontend:** (Planned) HTML & CSS
+- **Frontend:** (Planned) HTML, CSS, JavaScript
 - **Frameworks:** (Planned) Django, Tkinter
 - **Database:** (Planned) SQL
