@@ -1,6 +1,7 @@
 # Radoslav Raychev
 
 I am a developer focused on building practical software solutions and continuously improving my programming and development skills. My main focus is Python and web development, with a growing interest in backend development, databases, cloud technologies, and DevOps practices.
+
 I enjoy learning through hands-on projects and applying new technologies in real-world scenarios. My goal is to continue developing as a software developer while building clean, reliable, and maintainable applications.
 
 ## Key Skills:
@@ -30,4 +31,5 @@ I enjoy learning through hands-on projects and applying new technologies in real
 ## Current Focus:
 
 I am currently focused on improving my Python and Django skills, developing full-stack web applications, working with databases, and gaining practical experience with cloud and DevOps technologies.
+
 I am also exploring different areas of software development and expanding my knowledge of programming languages and technologies through personal projects, coursework, and hands-on practice.
